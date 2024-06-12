@@ -1,0 +1,19 @@
+.chart-widget-container {
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+  }
+  
+
+  @media only screen and (max-width: 784px) {
+    .chart-widget-container {
+      margin-top: 50px; 
+    }
+  }
+
+.container{
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  margin-top: 5rem;
+}
+  

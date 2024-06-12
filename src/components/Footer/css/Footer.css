@@ -1,0 +1,15 @@
+
+/* Default styles for the widget */
+.footer-box {
+    height: 100%;
+    width: 100%;
+    margin-top: 100px;
+  }
+  
+  /* Adjustments for mobile devices */
+  @media only screen and (max-width: 784px) {
+    .footer-box {
+      margin-top: 100px; /* Adjust this value as needed */
+    }
+  }
+  

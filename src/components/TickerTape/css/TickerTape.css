@@ -1,0 +1,14 @@
+
+/* Default styles for the widget */
+.tickertape-widget-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Adjustments for mobile devices */
+  @media only screen and (max-width: 784px) {
+    .tickertape-widget-container {
+      padding-top: 1px; /* Adjust this value as needed */
+    }
+  }
+  
